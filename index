@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gloria Macapagal Arroyoo</title>
+    <style>
+        body {
+            text-align: center;
+        }
+
+        img {
+            width: 200px;
+            border-radius: 15px;
+        }
+
+        .button-container {
+text-align: center;
+margin-top: 20px;
+        }
+
+        .button {
+            display: inline-block;
+            background-color:rgb(103, 174, 207);
+            color: rgb(64, 109, 148);
+            padding: 13px 25px;
+            text-decoration:line-through rgb(38, 96, 114);
+            border: none;
+            border-radius: 15px;
+            cursor: pointer;
+            text-decoration: none;
+            font-size: 1.2em;
+            margin: 10px;
+            transition: 0.3s;
+            box-shadow: fadeIn 2s ease-in-out;
+
+            
+
+        }
+
+        .button:hover {
+            background-color: rgb(54, 92, 104);
+
+        }
+
+        p {
+            font-family: cursive;
+        }
+        h2 {
+            font-family: cursive;
+        }
+    </style>
+</head>
+<body style="background-color:rgb(121, 206, 240);">
+    <h2 style ="color:rgb(77, 66, 52);">Gloria Macapagal Arroyo</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Gloria_Macapagal_Arroyo_WEF_2009-crop.jpg/800px-Gloria_Macapagal_Arroyo_WEF_2009-crop.jpg" alt="">
+    <p style ="color:rgb(77, 66, 52);">Gloria Macapagal Arroyo was the 10th vice president of the Philippines from 1998 to 2001 under President Joseph Estrada, becoming the first female vice president. Arroyo was the first president to succeed the presidency as the child of a previous president; her father was Diosdado Macapagal, the country's ninth president from 1961 to 1965. She had many contributes to Filipino citizens such as the Anti-Sexual Harassment Law that protects many Filipinos from Sexual harassments. If you want to know more information, please click the link below! </p>
+    
+    <div class="button">
+        <a href="https://en.wikipedia.org/wiki/Gloria_Macapagal_Arroyo">press heree</a>
+       </div>
+       
+  
+       
+</body>
+
+</html>
